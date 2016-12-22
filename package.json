@@ -1,0 +1,17 @@
+{
+  "name": "REST",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "*",
+    "body-parser": "*",
+    "express": "*",
+    "nodemon": "~1.11.0"
+  },
+  "author": "Amey Desai",
+  "license": "BSD-2-Clause"
+}
